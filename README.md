@@ -1,3 +1,3 @@
 CRUD Todo app using React and Firebase
 
-[live code](https://todo-app-react-firebase.herokuapp.com/)
+[live code](https://super-cool-site-by-jasoncassella.netlify.app/)
